@@ -4,7 +4,7 @@
 
 This template is using Unity **2021.3.7f1**
 
-Clone this repo and create a branch off of `main` before starting.; All your changes should be on that branch. Once you are done, create a Pull Request (PR). This will signify to us that you are complete.
+Clone this repo and create a branch off of `main` before starting. All your changes should be on that branch. Once you are done, create a Pull Request (PR). This will signify to us that you are complete.
 
 ## Provided Assets, Files, and Settings
 
